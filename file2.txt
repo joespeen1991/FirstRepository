@@ -2,3 +2,4 @@ Good bye!
 hello
 Line from user2
 new line from user2
+another line from user2
