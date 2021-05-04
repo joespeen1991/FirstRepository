@@ -3,3 +3,4 @@ line from user2
 good good goood
 new line from user1
 another line from user1
+new line by user1
